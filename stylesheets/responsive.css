@@ -1,0 +1,15 @@
+@media only screen and (min-device-width: 316px) and (max-device-width: 480px) and (orientation: portrait) {
+
+  p {
+    font-size: 14px;
+    line-height: 15px;
+  }
+
+  .Box1 {
+    margin-top: 2vh;
+  }
+
+  .Box234{
+    margin-top: 10vh;
+  }
+}
